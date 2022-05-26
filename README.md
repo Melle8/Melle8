@@ -1,4 +1,4 @@
-<img align="left" alt="Code Image" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.istockphoto.com%2Fphotos%2Fbackground-binary-code-a08-picture-id480288054&f=1&nofb=1" width="100%" height="100px" />
+<img align="left" alt="Code Image" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.istockphoto.com%2Fphotos%2Fbackground-binary-code-a08-picture-id480288054&f=1&nofb=1" width="100%" height="150px" />
 
 # Welcome I am Jamelle Mobley 👋
 
