@@ -1,5 +1,6 @@
-# Welcome I am Jamelle Mobley 👋
+<img align="left" alt="Code Image" src="" />
 
+# Welcome I am Jamelle Mobley 👋
 
 <h3 align="left">I am a full stack software engineer from Washington, DC.</h3>
 
